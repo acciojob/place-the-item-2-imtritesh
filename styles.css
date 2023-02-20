@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+main{
+	width: 650px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.holder{
+	width:120px;
+	height:120px;
+	background-color: blue;
+}
