@@ -13,5 +13,6 @@ main{
 	height:120px;
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
 	background-color: blue;
 }
